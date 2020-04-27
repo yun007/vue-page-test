@@ -6,7 +6,6 @@
     </div>
     <router-view/>
     <!-- <yun></yun> -->
-    <welcome></welcome>
   </div>
 </template>
 
@@ -14,12 +13,11 @@
 <script>
 
 // import yun from "./yun.vue"
-import Welcome from "./components/Welcome.vue"
+
 
 export default {  
   components : {
     // yun,
-    Welcome
   }
 }
 </script>
