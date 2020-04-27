@@ -16,3 +16,7 @@ export default {
   }
 }
 </script>
+
+<style>
+  .home .box{border:solid 1px green}
+</style>
